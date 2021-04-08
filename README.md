@@ -2,6 +2,10 @@
 
 This real time chat room application was developed by React.js and also used firestore of Firebase. The first step in using the app is to log in with a Google account.
 
+## App Link
+
+[https://chat-room-app-react.web.app/](https://chat-room-app-react.web.app/)
+
 ## To start this App
 
 In the project directory, you can run:
